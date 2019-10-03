@@ -9,7 +9,7 @@ Useful tool for SPCA to identify pet breeds, and NParks to identify bird species
 
 
 # Read more:
-https://medium.com/@jamesngyh/
+https://medium.com/analytics-vidhya/image-classification-using-artificial-neural-network-61637c7c6f9f
 
 # Metis Data Science Bootcamp
 https://metis.kaplan.com.sg

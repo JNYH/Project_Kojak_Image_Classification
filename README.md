@@ -5,6 +5,8 @@ Aim is to use Deep Learning models eg. Keras and TensorFlow
 
 Also to try out transfer learning, using a pre-trained model VGG16
 
+Useful tool for SPCA to identify pet breeds, and NParks to identify bird species
+
 
 # Read more:
 https://medium.com/@jamesngyh/

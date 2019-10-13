@@ -13,3 +13,6 @@ https://towardsdatascience.com/using-artificial-neural-network-for-image-classif
 
 # Metis Data Science Bootcamp
 https://metis.kaplan.com.sg
+
+# Connect with me:
+https://www.linkedin.com/in/jnyh/

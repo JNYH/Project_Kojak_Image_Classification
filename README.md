@@ -7,7 +7,7 @@ Also to try out transfer learning, using a pre-trained model VGG16
 
 Useful tool for SPCA to identify pet breeds, and NParks to identify bird species
 
-Python Notebooks:
+Python notebooks (in presentation sequence):
 1. simple_NN_model.ipynb
 2. first_CNN_model.ipynb
 3. CIFAR-10_Keras.ipynb
